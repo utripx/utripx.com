@@ -1,0 +1,19 @@
+{
+  "name": "Utripx",
+  "short_name": "Utripx",
+  "description": "Explore local travel guides and affordable itineraries with Utripx. Coming soon!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#fb4b4e",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "lang": "en"
+}
